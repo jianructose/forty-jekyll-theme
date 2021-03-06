@@ -1,7 +1,7 @@
 # site settings
 title: JIANRU
 subtitle: 
-email: dengjr@student.ubc.ca
+email: [email me](mailto: dengjr@student.ubc.ca)
 description: A Data Science Learner interested in Maching Learning, and Data Visualization
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
