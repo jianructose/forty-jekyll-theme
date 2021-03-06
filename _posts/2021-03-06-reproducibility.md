@@ -1,8 +1,8 @@
 ---
 layout: post
 title: All you need to know about reproducibility in data science as a newbie
-description: 
-image: 
+description: This first blog 
+image: assets/images/pic05.jpg
 ---
 
 If you are a wet lab practitioner for analytical chemistry, have you been in a situation that you are unable to re-generate the same results from the last week? Meanwhile you are in the middle of producing your lab report for the next meeting with all stakeholders. You might want to find out such discrepancy is from possible detergent changing without notice, or simply randomness.
